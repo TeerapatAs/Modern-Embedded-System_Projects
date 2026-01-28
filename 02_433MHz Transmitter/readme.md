@@ -3,6 +3,7 @@
 **Used Library: RadioHead, LiquidCrystal_I2C**
 
 Code in ArduinoIDE. Blink.ino for transmitter, REceiver.ino for receiver.
+
 <img width="500" height="578" alt="image" src="https://github.com/user-attachments/assets/1b6e3f3b-fea1-4af0-afbb-02ce0b35fcca" />
 
 **Processes:**
