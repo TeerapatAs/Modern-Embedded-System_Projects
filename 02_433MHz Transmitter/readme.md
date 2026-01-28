@@ -2,7 +2,7 @@
 
 **Used Library: RadioHead, LiquidCrystal_I2C**
 
-Code in ArduinoIDE.
+Code in ArduinoIDE. Blink.ino for transmitter, REceiver.ino for receiver.
 
 **Processes:**
 1. Connect the joystick to the Blue Pill's ADC pins A0 and A1 for reading the x-axis and the y-axis values.
