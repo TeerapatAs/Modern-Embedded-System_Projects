@@ -4,6 +4,7 @@
 
 Code in ArduinoIDE. Blink.ino for transmitter, REceiver.ino for receiver.
 <img width="500" height="578" alt="image" src="https://github.com/user-attachments/assets/1b6e3f3b-fea1-4af0-afbb-02ce0b35fcca" />
+
 **Processes:**
 1. Connect the joystick to the Blue Pill's ADC pins A0 and A1 for reading the x-axis and the y-axis values.
 2. Transmit data from Blue pill's pin A9 to the RF Transmitter.
