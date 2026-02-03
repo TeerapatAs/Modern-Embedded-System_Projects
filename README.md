@@ -1,5 +1,6 @@
 # Modern-Embedded-System_Projects
-<img width="500" height="480" alt="image" src="https://github.com/user-attachments/assets/b1517d4d-3132-48c7-813b-9cdff7013ee5" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/b1517d4d-3132-48c7-813b-9cdff7013ee5" />
+
 I used STM32F103C6T8 (Blue Pill) for these projects with ST-Link Connection.
 
 1. Blinking LED by setting the pin with the GPIO Map and Register Address
