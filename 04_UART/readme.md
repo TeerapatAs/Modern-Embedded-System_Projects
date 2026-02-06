@@ -4,6 +4,7 @@ Implementation of UART serial communication. STM32F103C8T6 (Blue Pill) as a tran
 
 **Circuit:**
 Connect Blue Pill's PA9(TX1) with the RX pin of the Arduino UNO.
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/cd642116-f8a8-4c89-b44b-a25b4e4d1726" />
 
 **STM32 Configuration in STM32CubeIDE:**
 1. Clock Configurations for the appropriate baud rate.
