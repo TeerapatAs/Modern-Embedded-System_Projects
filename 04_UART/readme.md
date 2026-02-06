@@ -11,6 +11,7 @@ First, I want to send data at a 9600 baud rate to Arduino UNO.
 
 Calculation:
 USART1 is connected to the APB2 Bus with 16MHz frequency. By default, USART1 is set to oversampling 16 times. So..
+
 Baud rate = $\frac{APB2 peripheral clock}{Oversampling * USARTDIV}$ => 9600 = $\frac{16*10^6}{16 * USARTDIV}$ => USART_DIV = 104.667
 
 
