@@ -7,6 +7,6 @@ I used STM32F103C6T8 (Blue Pill) for these projects with ST-Link Connection.
 
 2. Transmitting Data with **433 MHz RF**. Coding in Arduino IDE.
 
-3. Get input data from ADC channels with CPU Polling and DMA
+3. Get input data from ADC channels with **CPU Polling and DMA**.
    
 4. Send Data through **UART** serial communication. 
