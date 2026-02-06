@@ -29,7 +29,9 @@ The fraction 0.667*16 = 10 oversampling pulses will be distributed across all bi
 ^ Image of the value in TX_DATA variable, "Count:0".
 
 **Arduino UNO Configuration in Arduino IDE:**
+
 Looking up **Receiver_Serial.ino** for code. After compiling, the results on the serial monitor should be as follows.
+
 <img width="325" height="283" alt="image" src="https://github.com/user-attachments/assets/d243832b-22ad-498b-82e5-6abc884cb758" />
 
 
