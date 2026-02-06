@@ -25,6 +25,7 @@ The fraction 0.667*16 = 10 oversampling pulses will be distributed across all bi
 3. Write Code and Debug.
    Looking up **main.c** for code. After compiling and debugging, the results should be as follows.
 <img width="446" height="183" alt="image" src="https://github.com/user-attachments/assets/7e336627-7c24-4522-a184-1ba370a193a4" />
+
 ^ Image of the value in TX_DATA variable, "Count:0".
 
 **Arduino UNO Configuration in Arduino IDE:**
