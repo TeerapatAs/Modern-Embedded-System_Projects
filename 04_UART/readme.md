@@ -7,7 +7,7 @@ STM32 CubeIDE Configuration:
 1. Clock Configurations for the appropriate baud rate.
 First, I want to send data at a 9600 baud rate to Arduino UNO.
    
-<img width="1398" height="540" alt="image" src="https://github.com/user-attachments/assets/05a242ef-4dd2-4bf8-bfdb-839ea85d5b24" />
+<img width="800" height="540" alt="image" src="https://github.com/user-attachments/assets/05a242ef-4dd2-4bf8-bfdb-839ea85d5b24" />
 
 Calculation:
 USART1 is connected to the APB2 Bus with 16MHz frequency. By default, USART1 is set to oversampling 16 times. So..
