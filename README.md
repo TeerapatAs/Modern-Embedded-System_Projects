@@ -9,4 +9,8 @@ I used STM32F103C6T8 (Blue Pill) for these projects with ST-Link Connection.
 
 3. Get input data from ADC channels with **CPU Polling and DMA**.
    
-4. Send Data through **UART** serial communication. 
+4. Send data through **UART** serial communication.
+
+5. Send data through **SPI** communication.
+
+6. Send and receive data through **SPI** communication.
