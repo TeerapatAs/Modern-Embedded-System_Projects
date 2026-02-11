@@ -11,6 +11,7 @@ Blue Pill's PB13(SPI2 CLK), PB13(MOSI), and GND are connected with the Arduino U
 ^ 1. Enable SPI2, Sys debug, and GPIO(Pin C13) (I used Pin C13 for LED blinking to check if some error might not get caught by the Error_handler() function).
 
 <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/56af3f0b-4d18-4d57-ae79-5bdb3d67e7ae" />
+
 ^2. Set HSI Clock for 8MHz. (We can also use HSE, but my HSE Oscillator seems to cause the sampling lag.)
 
 <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/f64709b3-9b4a-4307-b721-ba42a7066142" />
