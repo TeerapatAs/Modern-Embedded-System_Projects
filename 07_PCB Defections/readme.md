@@ -1,10 +1,11 @@
-**Detect PCB defections**
+# Detect PCB defections
 
 **Tools:**
 
 OpenCV and Matplotlib libraries.
 
 **Goals:**
+
 The program is used to detect defects on PCBs. For example, this PCB board is missing 2 solder points.
 
 <img width="552" height="346" alt="image" src="https://github.com/user-attachments/assets/0a379a1a-7696-4028-b19d-b8400c1ac8f0" />
