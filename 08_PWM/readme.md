@@ -24,3 +24,11 @@ The picture above from the Reference manual in Chapter 9.3.7 shows that by defau
 ```c
   HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_1);
 ```
+3. **Result**
+   Using UNO to capture the signal.
+<img width="712" height="448" alt="image" src="https://github.com/user-attachments/assets/048c3354-c145-458a-9be6-7bc0c8114e22" />
+
+## Extras
+In the file names **extra_HAL.c** and **extra_LL.c**. I wrote code that makes the pulse wider over time using HAL functions and Low-Level(LL).
+
+**Result.**
