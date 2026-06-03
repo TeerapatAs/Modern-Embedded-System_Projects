@@ -21,6 +21,6 @@ The picture above from the Reference manual in Chapter 9.3.7 shows that by defau
 
 2. **Code**
    To generate PWM, just start TIM2 by using this line of code in main() function.
-   ```
+   ```c
   HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_1);
   ```
