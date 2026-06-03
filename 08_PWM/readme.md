@@ -6,6 +6,7 @@ To set the pin A0 to be a PWM with a 10% duty cycle. The PWM frequency can be se
 ## Steps
 1. **STM32 Configuration in STM32CubeIDE** : Set STM32 as hightlighted in the picture by yellow marker.
 <img width="1576" height="827" alt="image" src="https://github.com/user-attachments/assets/7e6a386a-d8aa-4677-bea1-f50465cfcb5d" />
+
 **Explaination**
 <img width="976" height="379" alt="image" src="https://github.com/user-attachments/assets/2bec28b7-f089-4fbc-8a4a-a2e99b530723" />
 
