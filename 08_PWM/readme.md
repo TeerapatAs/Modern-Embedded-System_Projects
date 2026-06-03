@@ -38,3 +38,4 @@ The picture above from the Reference manual in Chapter 9.3.7 shows that by defau
 In the file names **extra_HAL.c** and **extra_LL.c**. I wrote code that makes the pulse wider over time using HAL functions and Low-Level(LL).
 
 **Result.**
+<img width="971" height="450" alt="image" src="https://github.com/user-attachments/assets/17064e92-9724-4851-99a7-1eb99bc6476d" />
