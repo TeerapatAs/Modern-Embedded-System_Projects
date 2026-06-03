@@ -17,5 +17,10 @@ Then we look into the pins related to the TIM2.
 
 <img width="855" height="267" alt="image" src="https://github.com/user-attachments/assets/378349ae-03cd-4c24-8c86-15fb5fb2d61b" />
 
-The picture above from the Reference manual in Chapter 9.3.7 shows that by default ("no remap column"), the pin A0 can be assigned as an output that delivers the TIM2_CH1 signal to the outside world. 
+The picture above from the Reference manual in Chapter 9.3.7 shows that by default ("no remap column"), the pin A0 can be assigned as an output that delivers the TIM2_CH1 signal to the outside world.
 
+2. **Code**
+   To generate PWM, just start TIM2 by using this line of code in main() function.
+   ```
+  HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_1);
+  ```
