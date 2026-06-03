@@ -1,5 +1,11 @@
 # PWM from pin A0
 
+## Files
+1. main.c: Our main code.
+2. DSMPS.ioc: STM32 Configuration. Can be used with all .c code in this folder.
+3. extra_HAL.c: Extra experiment ;). Code that makes the pulse wider over time using HAL
+4. extra_LL.c: Extra experiment ;). Code that makes the pulse wider over time using Low-Level in main()
+
 ## Goal
 To set the pin A0 to be a PWM with a 10% duty cycle. The PWM frequency can be set to whatever one desires.
 
